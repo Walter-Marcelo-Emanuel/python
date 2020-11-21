@@ -9,5 +9,5 @@ while seguir:
     print("dado 1:",dado1)
     print("dado 2:",dado2)
     print("dsuman ambos", puntos)
-    seuir= ("s" ==input("¿volveer a tirar? Si o No")).lower()
+    seguir= ("s" ==input("¿volveer a tirar? Si o No")).lower()
     
