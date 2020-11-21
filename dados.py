@@ -8,6 +8,6 @@ while seguir:
     puntos=(dado1+dado2)
     print("dado 1:",dado1)
     print("dado 2:",dado2)
-    print("dsuman ambos", puntos)
-    seguir= ("s" ==input("¿volveer a tirar? Si o No")).lower()
+    print("suman ambos", puntos)
+    seguir= ("s" == input("¿volver a tirar? Si o No")).lower()
     
