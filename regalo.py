@@ -1,3 +1,4 @@
+
 import random 
 
 regalos = ['sarten', 'jamon', 'mp4', 'muñeca', 'tv', 'patin', 'balon', 'reloj', 'bicicleta', 'anillo'] 
